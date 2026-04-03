@@ -1,0 +1,10 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "data": [],
+    "openTradeInfoProtection": 1
+  },
+  "retExtInfo": {},
+  "time": 1767560747694
+}

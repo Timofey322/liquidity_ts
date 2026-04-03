@@ -1,0 +1,417 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "typeTraderList": [
+      {
+        "rankingType": "RANKING_TYPE_GOLD_TRADERS_PNL",
+        "traderList": [
+          {
+            "countryCode": "",
+            "leaderUserId": "189199676",
+            "leaderMark": "Sf5GrvLadWM0wzlsrRoKCw==",
+            "ranking": "1",
+            "traderPnlData": "1562.62",
+            "followersProfitsData": "5570.13",
+            "leaderNickname": "Aristocrat Invest",
+            "leaderProfilePhoto": "https://s1.bycsi.com/bybit/deadpool/image-f917004e66dc4ee9811dead815813194.svg",
+            "aum": "360909.84"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "112595392",
+            "leaderMark": "niOBQutnSkKLmxzYcHuvsA==",
+            "ranking": "2",
+            "traderPnlData": "83.8",
+            "followersProfitsData": "5576.15",
+            "leaderNickname": "Anjuta",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/7fcc74d4-0cbf-4d1b-af00-53b5a590f611.png",
+            "aum": "5648363.46"
+          }
+        ]
+      },
+      {
+        "rankingType": "RANKING_TYPE_SILVER_TRADERS_PNL",
+        "traderList": [
+          {
+            "countryCode": "",
+            "leaderUserId": "486288776",
+            "leaderMark": "FrQ2GT7VxIl7OZF8UUwzlQ==",
+            "ranking": "1",
+            "traderPnlData": "6540.19",
+            "followersProfitsData": "33519.78",
+            "leaderNickname": "NextTrade",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/72fa715c-30e2-4005-80d9-5b0df5dd0128.jpg",
+            "aum": "1506020.90"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "518139199",
+            "leaderMark": "iMgAOshC+MKxtM2afSQP9g==",
+            "ranking": "2",
+            "traderPnlData": "1355.3",
+            "followersProfitsData": "5538.01",
+            "leaderNickname": "JLTrading888",
+            "leaderProfilePhoto": "https://s1.bycsi.com/bybit/deadpool/image-f917004e66dc4ee9811dead815813194.svg",
+            "aum": "62049.72"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "112566733",
+            "leaderMark": "SY82k5I+MxGRi5F8qx3D8g==",
+            "ranking": "3",
+            "traderPnlData": "1258.12",
+            "followersProfitsData": "1652.92",
+            "leaderNickname": "UltraNet Protocol 〽️",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/ced92377-3fd7-45b0-855e-ab7b95327fd7.jpg",
+            "aum": "61575.99"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "262537612",
+            "leaderMark": "pWOCK0qxEm7vvnv0bg8b9g==",
+            "ranking": "4",
+            "traderPnlData": "577.97",
+            "followersProfitsData": "1739.56",
+            "leaderNickname": "wizard31337",
+            "leaderProfilePhoto": "https://s1.bycsi.com/bybit/deadpool/image-f917004e66dc4ee9811dead815813194.svg",
+            "aum": "371212.73"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "508802431",
+            "leaderMark": "c27KmeB/I0NV5DoyiTTsog==",
+            "ranking": "5",
+            "traderPnlData": "444.45",
+            "followersProfitsData": "2386.08",
+            "leaderNickname": "Coin.Hub",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/19acaf02-7322-4077-8857-bf7a8c9c8d9f.jpg",
+            "aum": "151559.35"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "283076540",
+            "leaderMark": "r3jokSKA+tybW8TbmhuYzA==",
+            "ranking": "6",
+            "traderPnlData": "439.14",
+            "followersProfitsData": "10293.45",
+            "leaderNickname": "Order Block Hunter",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/b1202492-5555-4257-858a-75ace32f144f.JPG",
+            "aum": "58216.43"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "520087147",
+            "leaderMark": "jzJg0uKaJC7LMCaZVbpIxw==",
+            "ranking": "7",
+            "traderPnlData": "270.96",
+            "followersProfitsData": "-853.17",
+            "leaderNickname": "W92",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/f0b11b90-66ca-4abc-a8ed-3064ea4dbd40.png",
+            "aum": "48806.37"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "337525833",
+            "leaderMark": "DFA7Tzjt5uDJR6Ftu5CT/Q==",
+            "ranking": "8",
+            "traderPnlData": "193.27",
+            "followersProfitsData": "-552.31",
+            "leaderNickname": "Pro_BCH",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/8977a0e4-084d-40ba-a002-cee9f4684159.jpg",
+            "aum": "37220.73"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "70319010",
+            "leaderMark": "1y47DJEq3iJz9a5nTkWvMQ==",
+            "ranking": "9",
+            "traderPnlData": "164.21",
+            "followersProfitsData": "2822.44",
+            "leaderNickname": "Cryptonus Trade MIX",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/59506a61-6dcf-45e8-ba54-a58ddd23b17d.jpg",
+            "aum": "59848.23"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "184868194",
+            "leaderMark": "qOWlm0Kt7RcPLDxcR7BVSQ==",
+            "ranking": "10",
+            "traderPnlData": "154.33",
+            "followersProfitsData": "2034.28",
+            "leaderNickname": "Banpodolphin",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/6eba71ab-0622-4ffa-bb6d-7ceea01785fd.jpeg",
+            "aum": "38191.30"
+          }
+        ]
+      },
+      {
+        "rankingType": "RANKING_TYPE_BRONZE_TRADERS_PNL",
+        "traderList": [
+          {
+            "countryCode": "",
+            "leaderUserId": "350729602",
+            "leaderMark": "EL3rnU/11ujjHkPYu9XJ+Q==",
+            "ranking": "1",
+            "traderPnlData": "3812.69",
+            "followersProfitsData": "1569.94",
+            "leaderNickname": "Wa1tsm",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/3dc4cb90-9996-4cb0-a933-8a55e302ed09.jpg",
+            "aum": "5990.21"
+          },
+          {
+            "countryCode": "KR",
+            "leaderUserId": "526476750",
+            "leaderMark": "W+gXDBThLHQRKu95NyCIMA==",
+            "ranking": "2",
+            "traderPnlData": "2950.22",
+            "followersProfitsData": "247.62",
+            "leaderNickname": "VIEWPOINT",
+            "leaderProfilePhoto": "https://s1.bycsi.com/bybit/deadpool/image-f917004e66dc4ee9811dead815813194.svg",
+            "aum": "0.00"
+          },
+          {
+            "countryCode": "LT",
+            "leaderUserId": "529837759",
+            "leaderMark": "1fmO/sZx99FU+RQ9LEKj8w==",
+            "ranking": "3",
+            "traderPnlData": "2540.55",
+            "followersProfitsData": "-9.83",
+            "leaderNickname": "Market Monkey",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/33843fbc-a16c-4964-a952-b480a66c57c5.jpg",
+            "aum": "1100.00"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "521412050",
+            "leaderMark": "sm2NOqxp046ovVwG6UgVfQ==",
+            "ranking": "4",
+            "traderPnlData": "2316.61",
+            "followersProfitsData": "184.53",
+            "leaderNickname": "mr.donor",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/6ac51fed-6092-4cd7-9497-8ab0a2406243.png",
+            "aum": "7000.00"
+          },
+          {
+            "countryCode": "PL",
+            "leaderUserId": "475670660",
+            "leaderMark": "TOB+TnTTaDQ7ywrMWQw0dw==",
+            "ranking": "5",
+            "traderPnlData": "2251.49",
+            "followersProfitsData": "703.9",
+            "leaderNickname": "ssijdupe",
+            "leaderProfilePhoto": "https://s1.bycsi.com/bybit/deadpool/image-f917004e66dc4ee9811dead815813194.svg",
+            "aum": "17367.73"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "120780231",
+            "leaderMark": "qtvE4NeCPYgOKPtNAHo71w==",
+            "ranking": "6",
+            "traderPnlData": "1654.2",
+            "followersProfitsData": "199.22",
+            "leaderNickname": "zwerzwer",
+            "leaderProfilePhoto": "https://s1.bycsi.com/bybit/deadpool/image-f917004e66dc4ee9811dead815813194.svg",
+            "aum": "500.00"
+          },
+          {
+            "countryCode": "BG",
+            "leaderUserId": "526240039",
+            "leaderMark": "V61bxMC+BHTIXUbogJUzMA==",
+            "ranking": "7",
+            "traderPnlData": "883.41",
+            "followersProfitsData": "216.84",
+            "leaderNickname": "Papai",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/b2ab088b-9164-426d-a1a6-8bc9db12b8e4.jpg",
+            "aum": "3500.00"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "376268351",
+            "leaderMark": "3/TZHoXsKPReRslzwxoCMw==",
+            "ranking": "8",
+            "traderPnlData": "650.02",
+            "followersProfitsData": "2362.09",
+            "leaderNickname": "AC/DC_MasterTrade",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/f5f84ac0-e83e-431d-aaa5-1a3148f97660.jpg",
+            "aum": "44965.86"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "268099987",
+            "leaderMark": "QdllwinONLnJh2+1wof/wQ==",
+            "ranking": "9",
+            "traderPnlData": "638.56",
+            "followersProfitsData": "40.74",
+            "leaderNickname": "Blade_AI",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/2f586724-f6ad-420d-b1ad-1a0024efc962.jpg",
+            "aum": "0.00"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "383137388",
+            "leaderMark": "AguQvtyCiPjkdr8YfwSrUw==",
+            "ranking": "10",
+            "traderPnlData": "564.53",
+            "followersProfitsData": "80.46",
+            "leaderNickname": "pipigan",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/e35ed90f-f7a2-45be-8612-325414606305.jpg",
+            "aum": "2553.82"
+          }
+        ]
+      },
+      {
+        "rankingType": "RANKING_TYPE_CADET_TRADERS_PNL",
+        "traderList": [
+          {
+            "countryCode": "",
+            "leaderUserId": "493729473",
+            "leaderMark": "YfTyLq4THQHF5BLsZryf5Q==",
+            "ranking": "1",
+            "traderPnlData": "25519.38",
+            "followersProfitsData": "9451.5",
+            "leaderNickname": "石神 rocky",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/e68b4fc3-0a32-4df3-8e07-7490d86d762d.jpg",
+            "aum": "810100.00"
+          },
+          {
+            "countryCode": "BE",
+            "leaderUserId": "445277845",
+            "leaderMark": "VsJWvcU1btgHeMrC0WONiw==",
+            "ranking": "2",
+            "traderPnlData": "15852.32",
+            "followersProfitsData": "115.21",
+            "leaderNickname": "OsedaxTrader",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/498bf6c2-ddd5-452a-ba0f-6efa363aeb9a.JPG",
+            "aum": "2201.00"
+          },
+          {
+            "countryCode": "RO",
+            "leaderUserId": "531222800",
+            "leaderMark": "uGwFsotjIx5bExnyUXtQDQ==",
+            "ranking": "3",
+            "traderPnlData": "10229.81",
+            "followersProfitsData": "0",
+            "leaderNickname": "EliteMarginDesk",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/1998fa6b-5e19-4444-bdd5-f5cd1490214f.jpg",
+            "aum": "0.00"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "324703958",
+            "leaderMark": "WTXyK+CTOhZP9UX6oT2agQ==",
+            "ranking": "4",
+            "traderPnlData": "9379.75",
+            "followersProfitsData": "0",
+            "leaderNickname": "WSOTNikolayLyashenko",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/3ea3cf4b-6129-4567-a769-f96610c87430.jpg",
+            "aum": "6832.00"
+          },
+          {
+            "countryCode": "KR",
+            "leaderUserId": "529373081",
+            "leaderMark": "SQSykicymD+Dcw+Q31xeGQ==",
+            "ranking": "5",
+            "traderPnlData": "6687.9",
+            "followersProfitsData": "8.1",
+            "leaderNickname": "TinyGiant",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/30376fa0-9cf4-478b-96c9-d42b336f979c.png",
+            "aum": "100.00"
+          },
+          {
+            "countryCode": "VN",
+            "leaderUserId": "62829645",
+            "leaderMark": "/RFNJIOwlcV/SowwQ7Tu7Q==",
+            "ranking": "6",
+            "traderPnlData": "5508.51",
+            "followersProfitsData": "0",
+            "leaderNickname": "Pôn Pồng Pột",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/ecf996bb-23b8-497e-9166-d2e8dad2cbf5.jpg",
+            "aum": "0.00"
+          },
+          {
+            "countryCode": "PL",
+            "leaderUserId": "465290126",
+            "leaderMark": "UT75GFw56Y0y7OqIholncg==",
+            "ranking": "7",
+            "traderPnlData": "5395.79",
+            "followersProfitsData": "0",
+            "leaderNickname": "Persistent man",
+            "leaderProfilePhoto": "https://s1.bycsi.com/bybit/deadpool/image-f917004e66dc4ee9811dead815813194.svg",
+            "aum": "0.00"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "462176620",
+            "leaderMark": "721JUKyPUU0UIron2aBy2Q==",
+            "ranking": "8",
+            "traderPnlData": "5014.53",
+            "followersProfitsData": "645.45",
+            "leaderNickname": "IAMUR",
+            "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/6054ef73-4b98-4aa5-be70-ce53b1634453.jpg",
+            "aum": "2250.00"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "478355082",
+            "leaderMark": "RmzVkwsihg1dislvtyrZ0Q==",
+            "ranking": "9",
+            "traderPnlData": "2844.97",
+            "followersProfitsData": "0",
+            "leaderNickname": "Damond_Shing",
+            "leaderProfilePhoto": "https://s1.bycsi.com/bybit/deadpool/image-f917004e66dc4ee9811dead815813194.svg",
+            "aum": "0.00"
+          },
+          {
+            "countryCode": "",
+            "leaderUserId": "534051926",
+            "leaderMark": "CnQKswN1HHgb4pYdgH47fw==",
+            "ranking": "10",
+            "traderPnlData": "2761.52",
+            "followersProfitsData": "0",
+            "leaderNickname": "cryptobat",
+            "leaderProfilePhoto": "https://s1.bycsi.com/bybit/deadpool/image-f917004e66dc4ee9811dead815813194.svg",
+            "aum": "0.00"
+          }
+        ]
+      }
+    ],
+    "topTraderList": [
+      {
+        "countryCode": "",
+        "leaderUserId": "189199676",
+        "leaderMark": "Sf5GrvLadWM0wzlsrRoKCw==",
+        "ranking": "1",
+        "traderPnlData": "1562.62",
+        "followersProfitsData": "5570.13",
+        "leaderNickname": "Aristocrat Invest",
+        "leaderProfilePhoto": "https://s1.bycsi.com/bybit/deadpool/image-f917004e66dc4ee9811dead815813194.svg",
+        "aum": ""
+      },
+      {
+        "countryCode": "",
+        "leaderUserId": "112595392",
+        "leaderMark": "niOBQutnSkKLmxzYcHuvsA==",
+        "ranking": "2",
+        "traderPnlData": "83.8",
+        "followersProfitsData": "5576.15",
+        "leaderNickname": "Anjuta",
+        "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/7fcc74d4-0cbf-4d1b-af00-53b5a590f611.png",
+        "aum": ""
+      },
+      {
+        "countryCode": "",
+        "leaderUserId": "486288776",
+        "leaderMark": "FrQ2GT7VxIl7OZF8UUwzlQ==",
+        "ranking": "3",
+        "traderPnlData": "6540.19",
+        "followersProfitsData": "33519.78",
+        "leaderNickname": "NextTrade",
+        "leaderProfilePhoto": "https://s1.bycsi.com/fop/copytrade/72fa715c-30e2-4005-80d9-5b0df5dd0128.jpg",
+        "aum": ""
+      }
+    ]
+  },
+  "retExtInfo": {},
+  "time": 1767558480609
+}

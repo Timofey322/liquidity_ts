@@ -1,0 +1,66 @@
+{
+  "config": {
+    "pair": "XAUUSD",
+    "bars_path": "models/compare_halfyear/cache/xauusd_bars_5m.csv",
+    "out_dir": "models/session_poi_xau_tuned/best_run",
+    "fee_bps": 2.0,
+    "poi_window_bars": 30,
+    "body_threshold": 0.9,
+    "stop_buffer_atr": 0.2,
+    "target_rr": 2.0,
+    "max_hold_bars": 72,
+    "session_fractal_left": 1,
+    "session_fractal_right": 2,
+    "ltf_fractal_left": 1,
+    "ltf_fractal_right": 1,
+    "allowed_sessions": [
+      "asia",
+      "london",
+      "newyork"
+    ],
+    "use_fractal_sweep_poi": true,
+    "use_fvg_poi": true,
+    "use_bos_entry": true,
+    "use_choch_entry": false,
+    "use_inversion_entry": false,
+    "require_trend_filter": true,
+    "trend_lookback_bars": 24,
+    "ema_span": 89
+  },
+  "train": {
+    "n_trades": 144,
+    "total_return": 0.05262331724255631,
+    "sharpe": 1.6112207327688362,
+    "max_drawdown": -0.012918792515828635,
+    "win_rate": 0.5138888888888888,
+    "avg_trade": 0.0003597656709967295,
+    "avg_r_multiple": 0.2387251906337834
+  },
+  "val": {
+    "n_trades": 71,
+    "total_return": 0.021348928314918414,
+    "sharpe": 0.8935648888798454,
+    "max_drawdown": -0.018450389502823503,
+    "win_rate": 0.49295774647887325,
+    "avg_trade": 0.0003015508824877081,
+    "avg_r_multiple": 0.24765570815567564
+  },
+  "test": {
+    "n_trades": 50,
+    "total_return": -0.006659327220510547,
+    "sharpe": -0.3753285082516695,
+    "max_drawdown": -0.021662587903147543,
+    "win_rate": 0.34,
+    "avg_trade": -0.0001306615818282751,
+    "avg_r_multiple": -0.17090153674979386
+  },
+  "all": {
+    "n_trades": 265,
+    "total_return": 0.06602403208990615,
+    "sharpe": 1.484847892868015,
+    "max_drawdown": -0.02166258790314888,
+    "win_rate": 0.4716981132075472,
+    "avg_trade": 0.0002448778851014616,
+    "avg_r_multiple": 0.15951088274310338
+  }
+}

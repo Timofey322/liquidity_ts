@@ -1,0 +1,33 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "data": [
+      {
+        "symbol": "XRPUSDT",
+        "entryPrice": "1.8422",
+        "sizeX": "320000000",
+        "createdAtE3": "1767226780033",
+        "side": "Buy",
+        "leverageE2": "1000",
+        "isIsolated": false,
+        "transactTimeE3": "0",
+        "stopLossPrice": "",
+        "takeProfitPrice": "",
+        "takeProfitOrderId": "",
+        "stopLossOrderId": "",
+        "orderCostE8": "0",
+        "reCalcEntryPrice": "0",
+        "positionEntryPrice": "1.8422",
+        "positionCycleVersion": "1",
+        "crossSeq": "226440965894",
+        "closeFreeQtyX": "0",
+        "minPositionCostE8": "67230730",
+        "positionBalanceE8": "67230730"
+      }
+    ],
+    "openTradeInfoProtection": 0
+  },
+  "retExtInfo": {},
+  "time": 1767560796560
+}

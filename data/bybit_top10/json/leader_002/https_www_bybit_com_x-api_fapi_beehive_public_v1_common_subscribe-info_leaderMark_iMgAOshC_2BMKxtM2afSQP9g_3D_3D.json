@@ -1,0 +1,15 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "subscribeTradeSignal": false,
+    "subscribeTradeSignalNum": 84,
+    "subscribeWaitFollow": false,
+    "subscribeWaitFollowNum": 59,
+    "canSubscribeTradeSignal": true,
+    "canSubscribeWaitFollow": true,
+    "isFav": false
+  },
+  "retExtInfo": {},
+  "time": 1767560747449
+}

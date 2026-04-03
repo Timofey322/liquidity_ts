@@ -1,0 +1,25 @@
+{
+  "pair": "EURUSD",
+  "config": {
+    "pair": "EURUSD",
+    "bars_path": "models/compare_halfyear/cache/eurusd_bars_5m.csv",
+    "out_dir": "models/weekly_adaptive/eurusd",
+    "fee_bps": 1.0,
+    "train_weeks": 2,
+    "move_horizon_bars": 36,
+    "pre_lookback_bars": 12,
+    "top_events": 30,
+    "max_signals_per_week": 8,
+    "min_event_move": 0.0015,
+    "min_sl_atr": 0.6,
+    "max_sl_atr": 3.0,
+    "min_tp_atr": 0.8,
+    "max_tp_atr": 6.0
+  },
+  "n_trades": 27,
+  "total_return": -0.021434947926642134,
+  "max_drawdown": -0.020311557933799452,
+  "win_rate": 0.0,
+  "avg_trade": -0.0008021036518437755,
+  "sharpe": -9.466753203076802
+}

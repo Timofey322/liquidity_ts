@@ -1,0 +1,19 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "country": "",
+    "identifyVipLevel": 0,
+    "identifyMmLevel": 0,
+    "leaderLevel": "COPY_TRADE_LEADER_LEVEL_BRONZE_TRADER",
+    "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_BRONZE_TRADER",
+    "leaderLevelChangeTimeE3": "1767416248774",
+    "identifyVipLevelV2": 0,
+    "leaderLevelEvaluateTimeE3": "1767416248774",
+    "thirdPartyApplicationInfo": [],
+    "gameInfo": [],
+    "identifyProLevel": 0
+  },
+  "retExtInfo": {},
+  "time": 1767560736632
+}

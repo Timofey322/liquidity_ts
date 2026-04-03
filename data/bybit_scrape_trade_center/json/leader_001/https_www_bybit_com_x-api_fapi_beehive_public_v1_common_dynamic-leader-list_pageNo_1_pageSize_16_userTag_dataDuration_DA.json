@@ -1,0 +1,1004 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "metricColumns": [
+      {
+        "colName": "ROI",
+        "sortKey": "LEADER_SORT_FIELD_SORT_ROI",
+        "hasColor": true,
+        "hasPeriod": true
+      },
+      {
+        "colName": "Drawdown",
+        "sortKey": "LEADER_SORT_FIELD_SORT_DRAW_DOWN",
+        "hasColor": false,
+        "hasPeriod": true
+      },
+      {
+        "colName": "totalAllFollowProfit",
+        "sortKey": "LEADER_SORT_FIELD_SORT_FOLLOWERS_YIELD",
+        "hasColor": false,
+        "hasPeriod": true
+      },
+      {
+        "colName": "WinRate",
+        "sortKey": "LEADER_SORT_FIELD_SORT_WIN_RATE",
+        "hasColor": false,
+        "hasPeriod": true
+      },
+      {
+        "colName": "profileProfitLossRatio",
+        "sortKey": "LEADER_SORT_FIELD_SORT_YIELD_LOSS_RATIO",
+        "hasColor": false,
+        "hasPeriod": true
+      },
+      {
+        "colName": "sharpeRatio",
+        "sortKey": "LEADER_SORT_FIELD_SORT_SHARPE_RATIO",
+        "hasColor": true,
+        "hasPeriod": true
+      }
+    ],
+    "leaderDetails": [
+      {
+        "leaderUserId": "509094771",
+        "leaderMark": "KizeXFSp3gU/KBNAms85Yw==",
+        "profilePhoto": "https://s1.bycsi.com/fop/copytrade/8ddef8d7-e819-4c14-9a05-27ec640ee6ec.jpg",
+        "nickName": "TECHBOOST",
+        "yesterdayMaxFollowersNum": "92",
+        "leaderParentUserId": "495477076",
+        "referralCode": "7DOVMBD",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_BRONZE_TRADER",
+        "followerYieldE8": "2353709128446",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_CADET_TRADER",
+        "leaderLevelChangeTimeE3": "1767416466457",
+        "userTag": [
+          {
+            "title": "Высокая частота",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "50662028",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "9",
+            "titleLangKey": "traderTagHighFrequency",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Краткосрочные",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "50662030",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "13",
+            "titleLangKey": "traderTagSwingTrader",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Кормилец",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "50341654",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "2",
+            "titleLangKey": "traderTagMoneyMaker",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+166.12%",
+          "+40.43%",
+          "+23,537.09",
+          "+96.60%",
+          "0.04 : 1",
+          "+1.53"
+        ],
+        "opStatus": 0,
+        "currentFollowerCount": "99",
+        "maxFollowerCount": "250",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "486288776",
+        "leaderMark": "FrQ2GT7VxIl7OZF8UUwzlQ==",
+        "profilePhoto": "https://s1.bycsi.com/fop/copytrade/72fa715c-30e2-4005-80d9-5b0df5dd0128.jpg",
+        "nickName": "NextTrade",
+        "yesterdayMaxFollowersNum": "21",
+        "leaderParentUserId": "49917972",
+        "referralCode": "RKJYOK#0",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_GOLD_TRADER",
+        "followerYieldE8": "2284938185483",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "leaderLevelChangeTimeE3": "1767416386038",
+        "userTag": [
+          {
+            "title": "Стабильные",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "50658831",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "6",
+            "titleLangKey": "traderTagStable",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Успешная серия",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "50658830",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "8",
+            "titleLangKey": "traderTagWinStreak",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Высокая частота",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "36051836",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "9",
+            "titleLangKey": "traderTagHighFrequency",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+1.84%",
+          "+0.65%",
+          "+22,849.38",
+          "+91.67%",
+          "401.30 : 0",
+          "+0.58"
+        ],
+        "opStatus": 4,
+        "currentFollowerCount": "21",
+        "maxFollowerCount": "3000",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "283076540",
+        "leaderMark": "r3jokSKA+tybW8TbmhuYzA==",
+        "profilePhoto": "https://s1.bycsi.com/fop/copytrade/b1202492-5555-4257-858a-75ace32f144f.JPG",
+        "nickName": "Order Block Hunter",
+        "yesterdayMaxFollowersNum": "238",
+        "leaderParentUserId": "26662944",
+        "referralCode": "G2PYKY",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "followerYieldE8": "1670348119353",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "leaderLevelChangeTimeE3": "1767415901208",
+        "userTag": [
+          {
+            "title": "Высокая частота",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "47070529",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "9",
+            "titleLangKey": "traderTagHighFrequency",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Долгосрочные",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "35466458",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "14",
+            "titleLangKey": "traderTagTrendTrader",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Ветераны",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "32546698",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "15",
+            "titleLangKey": "traderTagVeteran",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+27.83%",
+          "+3.19%",
+          "+16,703.48",
+          "+92.65%",
+          "169.11 : 1",
+          "+1.49"
+        ],
+        "opStatus": 0,
+        "currentFollowerCount": "237",
+        "maxFollowerCount": "1000",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "493729473",
+        "leaderMark": "YfTyLq4THQHF5BLsZryf5Q==",
+        "profilePhoto": "https://s1.bycsi.com/fop/copytrade/e68b4fc3-0a32-4df3-8e07-7490d86d762d.jpg",
+        "nickName": "石神 rocky",
+        "yesterdayMaxFollowersNum": "5",
+        "leaderParentUserId": "482422458",
+        "referralCode": "KXBWYLZ",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "followerYieldE8": "802216482299",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_CADET_TRADER",
+        "leaderLevelChangeTimeE3": "1767416412712",
+        "userTag": [
+          {
+            "title": "Высокая частота",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "39753494",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "9",
+            "titleLangKey": "traderTagHighFrequency",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Низкое кредитное плечо",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "38497460",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "12",
+            "titleLangKey": "traderTagLowLeverage",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+0.93%",
+          "+0.37%",
+          "+8,022.16",
+          "+77.15%",
+          "1.66 : 1",
+          "+1.06"
+        ],
+        "opStatus": 4,
+        "currentFollowerCount": "5",
+        "maxFollowerCount": "1000",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "181672387",
+        "leaderMark": "okDEd+44BG4S82d84ROBqg==",
+        "profilePhoto": "https://s1.bycsi.com/fop/copytrade/448d648a-f895-4858-8bab-839e2acc940e.jpg",
+        "nickName": "CoinMasterPro",
+        "yesterdayMaxFollowersNum": "457",
+        "leaderParentUserId": "174273074",
+        "referralCode": "JYALYV4",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "followerYieldE8": "689705111532",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "leaderLevelChangeTimeE3": "1767415682201",
+        "userTag": [
+          {
+            "title": "Топ по прибыли",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "49200626",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "4",
+            "titleLangKey": "traderTagTopProfit",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Стабильные",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "49924393",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "6",
+            "titleLangKey": "traderTagStable",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Высокая частота",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "45581166",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "9",
+            "titleLangKey": "traderTagHighFrequency",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+4.25%",
+          "0.00%",
+          "+6,897.05",
+          "+82.75%",
+          "1.00 : 0",
+          "+1.88"
+        ],
+        "opStatus": 0,
+        "currentFollowerCount": "451",
+        "maxFollowerCount": "1000",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "474919023",
+        "leaderMark": "wcTxhRBbfmVY6Jmop6Gtkw==",
+        "profilePhoto": "https://s1.bycsi.com/fop/copytrade/55e1a945-9cc5-47b0-9532-b60252b71d13.jpg",
+        "nickName": "Komunitas Crypto",
+        "yesterdayMaxFollowersNum": "4",
+        "leaderParentUserId": "14063828",
+        "referralCode": "ROXOK0",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_BRONZE_TRADER",
+        "followerYieldE8": "633928229418",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_BRONZE_TRADER",
+        "leaderLevelChangeTimeE3": "1767416355457",
+        "userTag": [
+          {
+            "title": "Высокая частота",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "42300718",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "9",
+            "titleLangKey": "traderTagHighFrequency",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Высокое кредитное плечо",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "33117112",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "11",
+            "titleLangKey": "traderTagHighLeverage",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Ветераны",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "48494746",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "15",
+            "titleLangKey": "traderTagVeteran",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+5.35%",
+          "+3.07%",
+          "+6,339.28",
+          "+65.00%",
+          "2.65 : 1",
+          "+1.07"
+        ],
+        "opStatus": 0,
+        "currentFollowerCount": "4",
+        "maxFollowerCount": "250",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "189199676",
+        "leaderMark": "Sf5GrvLadWM0wzlsrRoKCw==",
+        "profilePhoto": "https://s1.bycsi.com/bybit/deadpool/image-f917004e66dc4ee9811dead815813194.svg",
+        "nickName": "Aristocrat Invest",
+        "yesterdayMaxFollowersNum": "838",
+        "leaderParentUserId": "26753974",
+        "referralCode": "WQQ78X",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "followerYieldE8": "585202411412",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_GOLD_TRADER",
+        "leaderLevelChangeTimeE3": "1767415706171",
+        "userTag": [
+          {
+            "title": "Топ по прибыли",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "47077035",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "4",
+            "titleLangKey": "traderTagTopProfit",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Стабильные",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "47077032",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "6",
+            "titleLangKey": "traderTagStable",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Успешная серия",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "49919970",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "8",
+            "titleLangKey": "traderTagWinStreak",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+2.75%",
+          "+0.10%",
+          "+5,852.02",
+          "+100.00%",
+          "150.48 : 0",
+          "+2.17"
+        ],
+        "opStatus": 0,
+        "currentFollowerCount": "863",
+        "maxFollowerCount": "1000",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "112595392",
+        "leaderMark": "niOBQutnSkKLmxzYcHuvsA==",
+        "profilePhoto": "https://s1.bycsi.com/fop/copytrade/7fcc74d4-0cbf-4d1b-af00-53b5a590f611.png",
+        "nickName": "Anjuta",
+        "yesterdayMaxFollowersNum": "1091",
+        "leaderParentUserId": "110157204",
+        "referralCode": "N2QBQG",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "followerYieldE8": "580327538631",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_GOLD_TRADER",
+        "leaderLevelChangeTimeE3": "1767415238084",
+        "userTag": [
+          {
+            "title": "Топ по прибыли",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "46379229",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "4",
+            "titleLangKey": "traderTagTopProfit",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Стабильные",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "48500247",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "6",
+            "titleLangKey": "traderTagStable",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Успешная серия",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "45577630",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "8",
+            "titleLangKey": "traderTagWinStreak",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+0.51%",
+          "0.00%",
+          "+5,803.28",
+          "+97.32%",
+          "1.00 : 0",
+          "+2.30"
+        ],
+        "opStatus": 2,
+        "currentFollowerCount": "1073",
+        "maxFollowerCount": "1000",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "518139199",
+        "leaderMark": "iMgAOshC+MKxtM2afSQP9g==",
+        "profilePhoto": "https://s1.bycsi.com/bybit/deadpool/image-f917004e66dc4ee9811dead815813194.svg",
+        "nickName": "JLTrading888",
+        "yesterdayMaxFollowersNum": "101",
+        "leaderParentUserId": "478222958",
+        "referralCode": "OKPLJJ5",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "followerYieldE8": "561750391055",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "leaderLevelChangeTimeE3": "1767416495350",
+        "userTag": [
+          {
+            "title": "Стабильные",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "49201570",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "6",
+            "titleLangKey": "traderTagStable",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Успешная серия",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "48389113",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "8",
+            "titleLangKey": "traderTagWinStreak",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Высокая частота",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "43631215",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "9",
+            "titleLangKey": "traderTagHighFrequency",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+14.97%",
+          "0.00%",
+          "+5,617.50",
+          "+97.84%",
+          "0.97 : 1",
+          "+5.43"
+        ],
+        "opStatus": 0,
+        "currentFollowerCount": "139",
+        "maxFollowerCount": "1000",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "112566733",
+        "leaderMark": "SY82k5I+MxGRi5F8qx3D8g==",
+        "profilePhoto": "https://s1.bycsi.com/fop/copytrade/ced92377-3fd7-45b0-855e-ab7b95327fd7.jpg",
+        "nickName": "UltraNet Protocol 〽️",
+        "yesterdayMaxFollowersNum": "101",
+        "leaderParentUserId": "40474073",
+        "referralCode": "VJ37OO",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "followerYieldE8": "514769112364",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "leaderLevelChangeTimeE3": "1767415237794",
+        "userTag": [
+          {
+            "title": "Топ по прибыли",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "50649464",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "4",
+            "titleLangKey": "traderTagTopProfit",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Успешная серия",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "50649462",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "8",
+            "titleLangKey": "traderTagWinStreak",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Высокая частота",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "47788840",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "9",
+            "titleLangKey": "traderTagHighFrequency",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+16.94%",
+          "+15.74%",
+          "+5,147.69",
+          "+88.12%",
+          "0.14 : 1",
+          "+0.78"
+        ],
+        "opStatus": 0,
+        "currentFollowerCount": "87",
+        "maxFollowerCount": "1000",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "515502421",
+        "leaderMark": "LlglqDFp4yJ5iSjh1r+Diw==",
+        "profilePhoto": "https://s1.bycsi.com/bybit/deadpool/image-f917004e66dc4ee9811dead815813194.svg",
+        "nickName": "GridReaper",
+        "yesterdayMaxFollowersNum": "216",
+        "leaderParentUserId": "128422002",
+        "referralCode": "7GNPLK",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "followerYieldE8": "478605786893",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_BRONZE_TRADER",
+        "leaderLevelChangeTimeE3": "1767416484919",
+        "userTag": [
+          {
+            "title": "Успешная серия",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "49931072",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "8",
+            "titleLangKey": "traderTagWinStreak",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Высокая частота",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "42967678",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "9",
+            "titleLangKey": "traderTagHighFrequency",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Высокое кредитное плечо",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "42967680",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "11",
+            "titleLangKey": "traderTagHighLeverage",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+5.55%",
+          "+1.31%",
+          "+4,786.06",
+          "+97.55%",
+          "1.00 : 0",
+          "+1.81"
+        ],
+        "opStatus": 0,
+        "currentFollowerCount": "221",
+        "maxFollowerCount": "1000",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "119423347",
+        "leaderMark": "sxgMC1FJdZ5er/X3XHn7hg==",
+        "profilePhoto": "https://s1.bycsi.com/fop/copytrade/98c67f05-6aea-4f53-bc57-90f35c5c3a20.jpg",
+        "nickName": "One_hour_manip",
+        "yesterdayMaxFollowersNum": "409",
+        "leaderParentUserId": "845587",
+        "referralCode": "02165",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "followerYieldE8": "342096247231",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_BRONZE_TRADER",
+        "leaderLevelChangeTimeE3": "1767416500786",
+        "userTag": [],
+        "metricValues": [
+          "+1.15%",
+          "+1.66%",
+          "+3,420.96",
+          "+50.00%",
+          "47.28 : 0",
+          "+0.44"
+        ],
+        "opStatus": 4,
+        "currentFollowerCount": "406",
+        "maxFollowerCount": "1000",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "452915241",
+        "leaderMark": "JQ8qK48epi80Whr2RCFYkg==",
+        "profilePhoto": "https://s1.bycsi.com/fop/copytrade/7855e762-9d6c-4dcf-87de-b768b4c5caa0.jpg",
+        "nickName": "Eleven$",
+        "yesterdayMaxFollowersNum": "122",
+        "leaderParentUserId": "404408937",
+        "referralCode": "YV0D73N",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_BRONZE_TRADER",
+        "followerYieldE8": "322233049128",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_CADET_TRADER",
+        "leaderLevelChangeTimeE3": "1767416270460",
+        "userTag": [
+          {
+            "title": "Успешная серия",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "50651552",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "8",
+            "titleLangKey": "traderTagWinStreak",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Высокая частота",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "50651551",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "9",
+            "titleLangKey": "traderTagHighFrequency",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Краткосрочные",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "49214978",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "13",
+            "titleLangKey": "traderTagSwingTrader",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+14.98%",
+          "0.00%",
+          "+3,222.33",
+          "+100.00%",
+          "1.25 : 0",
+          "+3.29"
+        ],
+        "opStatus": 0,
+        "currentFollowerCount": "171",
+        "maxFollowerCount": "250",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "431205466",
+        "leaderMark": "HiNXITFBSWMiTzQx768OBg==",
+        "profilePhoto": "https://s1.bycsi.com/fop/copytrade/0758b03b-e3bb-48a3-990c-8c1db3ee6f70.jpg",
+        "nickName": "Duncanarcade",
+        "yesterdayMaxFollowersNum": "362",
+        "leaderParentUserId": "382239569",
+        "referralCode": "WXQ7ZBX",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "followerYieldE8": "271612673865",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_BRONZE_TRADER",
+        "leaderLevelChangeTimeE3": "1767416186203",
+        "userTag": [
+          {
+            "title": "Успешная серия",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "49214853",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "8",
+            "titleLangKey": "traderTagWinStreak",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Высокая частота",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "49214852",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "9",
+            "titleLangKey": "traderTagHighFrequency",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Краткосрочные",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "48491148",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "13",
+            "titleLangKey": "traderTagSwingTrader",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+10.30%",
+          "0.00%",
+          "+2,716.13",
+          "+100.00%",
+          "1.00 : 0",
+          "+1.31"
+        ],
+        "opStatus": 0,
+        "currentFollowerCount": "500",
+        "maxFollowerCount": "1000",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "446267076",
+        "leaderMark": "kmDJcTpP2APUZF3SDH4zAg==",
+        "profilePhoto": "https://s1.bycsi.com/fop/copytrade/4518f5c8-3e4c-49c1-89a4-fb62a861b093.jpg",
+        "nickName": "Prime Alpha Research",
+        "yesterdayMaxFollowersNum": "82",
+        "leaderParentUserId": "180418344",
+        "referralCode": "Q1QR5GL",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_BRONZE_TRADER",
+        "followerYieldE8": "269009467885",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_BRONZE_TRADER",
+        "leaderLevelChangeTimeE3": "1767416248774",
+        "userTag": [
+          {
+            "title": "Успешная серия",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "50655758",
+            "tagType": "USER_TAG_TYPE_POSITIVE",
+            "tagId": "8",
+            "titleLangKey": "traderTagWinStreak",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Высокая частота",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "50655757",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "9",
+            "titleLangKey": "traderTagHighFrequency",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Ветераны",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "48494556",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "15",
+            "titleLangKey": "traderTagVeteran",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+8.93%",
+          "0.00%",
+          "+2,690.09",
+          "+73.68%",
+          "8.89 : 1",
+          "+6.67"
+        ],
+        "opStatus": 0,
+        "currentFollowerCount": "82",
+        "maxFollowerCount": "250",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      },
+      {
+        "leaderUserId": "376268351",
+        "leaderMark": "3/TZHoXsKPReRslzwxoCMw==",
+        "profilePhoto": "https://s1.bycsi.com/fop/copytrade/f5f84ac0-e83e-431d-aaa5-1a3148f97660.jpg",
+        "nickName": "AC/DC_MasterTrade",
+        "yesterdayMaxFollowersNum": "37",
+        "leaderParentUserId": "77496868",
+        "referralCode": "RWL5DW",
+        "leaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+        "followerYieldE8": "253592155504",
+        "countryCode": "",
+        "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_BRONZE_TRADER",
+        "leaderLevelChangeTimeE3": "1767416022232",
+        "userTag": [
+          {
+            "title": "Высокая частота",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "20057206",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "9",
+            "titleLangKey": "traderTagHighFrequency",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Долгосрочные",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "19542823",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "14",
+            "titleLangKey": "traderTagTrendTrader",
+            "hovelDescLangKey": ""
+          },
+          {
+            "title": "Ветераны",
+            "hovelDesc": "",
+            "hovelTargetUserTag": [],
+            "id": "30843896",
+            "tagType": "USER_TAG_TYPE_NEUTRAL",
+            "tagId": "15",
+            "titleLangKey": "traderTagVeteran",
+            "hovelDescLangKey": ""
+          }
+        ],
+        "metricValues": [
+          "+11.61%",
+          "+8.73%",
+          "+2,535.92",
+          "+70.00%",
+          "4.84 : 0",
+          "+0.55"
+        ],
+        "opStatus": 0,
+        "currentFollowerCount": "36",
+        "maxFollowerCount": "1000",
+        "linkCreateType": 0,
+        "thirdPartyApplicationInfo": [],
+        "wsotRanking": "0",
+        "gameInfo": [],
+        "isFav": false
+      }
+    ],
+    "currentPageNo": "1",
+    "totalPageCount": "869",
+    "totalCount": "13892",
+    "sortField": "LEADER_SORT_FIELD_SORT_FOLLOWERS_YIELD",
+    "sortType": "SORT_TYPE_DESC"
+  },
+  "retExtInfo": {},
+  "time": 1767558480489
+}

@@ -1,0 +1,40 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "symbols": [
+      "BEAMUSDT",
+      "TAOUSDT",
+      "SUPERUSDT",
+      "TONUSDT",
+      "SEIUSDT",
+      "ENAUSDT",
+      "PARTIUSDT",
+      "HYPEUSDT",
+      "SOLUSDT",
+      "LINKUSDT",
+      "LDOUSDT",
+      "1000BONKUSDT",
+      "ASTERUSDT",
+      "INJUSDT",
+      "XRPUSDT",
+      "JTOUSDT",
+      "SUIUSDT",
+      "DOGEUSDT",
+      "BERAUSDT",
+      "ETHUSDT",
+      "APTUSDT",
+      "RUNEUSDT",
+      "SUSDT",
+      "AVAXUSDT",
+      "ZECUSDT",
+      "BTCUSDT",
+      "AEROUSDT",
+      "OPUSDT",
+      "BNBUSDT",
+      "ARUSDT"
+    ]
+  },
+  "retExtInfo": {},
+  "time": 1767560830874
+}

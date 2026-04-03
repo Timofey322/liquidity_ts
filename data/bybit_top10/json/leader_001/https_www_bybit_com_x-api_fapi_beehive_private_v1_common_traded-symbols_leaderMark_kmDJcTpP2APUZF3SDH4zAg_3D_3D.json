@@ -1,0 +1,17 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "symbols": [
+      "WLDUSDT",
+      "FARTCOINUSDT",
+      "XRPUSDT",
+      "LUNA2USDT",
+      "BTCUSDT",
+      "BEATUSDT",
+      "DOGEUSDT"
+    ]
+  },
+  "retExtInfo": {},
+  "time": 1767560737542
+}

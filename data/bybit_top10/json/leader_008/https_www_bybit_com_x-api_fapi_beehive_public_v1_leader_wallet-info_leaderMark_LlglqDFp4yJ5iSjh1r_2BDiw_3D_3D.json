@@ -1,0 +1,10 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "walletBalanceE8": "141579330078",
+    "openTradeInfoProtection": 0
+  },
+  "retExtInfo": {},
+  "time": 1767560819757
+}

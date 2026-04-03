@@ -1,0 +1,14 @@
+{
+  "n_trades": 5,
+  "n_symbols": 2,
+  "close_ts_utc": "2026-01-01 11:00:00+00:00",
+  "cash_balance": -66516.00000000001,
+  "market_value": 66960.0,
+  "equity_estimate": 443.99999999998545,
+  "realized_pnl_total": 213.33333333333343,
+  "unrealized_pnl_total": 236.6666666666668,
+  "reconciliation": {
+    "is_used": false,
+    "n_mismatch": 0
+  }
+}

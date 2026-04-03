@@ -1,0 +1,31 @@
+{
+  "pair": "XAUUSD",
+  "config": {
+    "pair": "XAUUSD",
+    "bars_path": "models/compare_halfyear/cache/xauusd_bars_5m.csv",
+    "out_dir": "models/weekly_xgb/xauusd",
+    "fee_bps": 2.0,
+    "train_weeks": 2,
+    "move_horizon_bars": 36,
+    "max_signals_per_week": 8,
+    "min_event_move": 0.0015,
+    "big_move_quantile": 0.85,
+    "val_ratio": 0.25,
+    "n_trials": 14,
+    "random_state": 42,
+    "kernel_window": 48,
+    "kernel_bandwidth": 14.0,
+    "sl_atr_quantile": 0.75,
+    "tp_atr_quantile": 0.55,
+    "min_sl_atr": 0.7,
+    "max_sl_atr": 3.0,
+    "min_tp_atr": 1.0,
+    "max_tp_atr": 6.0
+  },
+  "n_trades": 61,
+  "total_return": 0.029184567816679552,
+  "max_drawdown": -0.016118561827286118,
+  "win_rate": 0.4918032786885246,
+  "avg_trade": 0.0004775952776828247,
+  "sharpe": 1.0755561871110415
+}

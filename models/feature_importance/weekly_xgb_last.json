@@ -1,0 +1,241 @@
+{
+  "source_csv": "D:\\ferrari_f80_v2\\models\\compare_halfyear\\cache\\xauusd_bars_5m.csv",
+  "meta": {
+    "bars_path": "D:\\ferrari_f80_v2\\models\\compare_halfyear\\cache\\xauusd_bars_5m.csv",
+    "n_rows_raw": 35230,
+    "n_rows_fit": 34428,
+    "n_features": 56,
+    "move_threshold": 0.005718854805172291,
+    "class_counts": {
+      "0": 29263,
+      "1": 2676,
+      "2": 2489
+    }
+  },
+  "feature_importance_gain_sklearn": [
+    {
+      "feature": "in_session_london",
+      "importance": 0.1084609255194664
+    },
+    {
+      "feature": "atr",
+      "importance": 0.042247746139764786
+    },
+    {
+      "feature": "prev_ny_high",
+      "importance": 0.03770478069782257
+    },
+    {
+      "feature": "prev_london_low",
+      "importance": 0.03700157627463341
+    },
+    {
+      "feature": "hour",
+      "importance": 0.03682079538702965
+    },
+    {
+      "feature": "in_session_ny",
+      "importance": 0.03155694156885147
+    },
+    {
+      "feature": "prev_asia_low",
+      "importance": 0.031069088727235794
+    },
+    {
+      "feature": "prev_london_high",
+      "importance": 0.030308201909065247
+    },
+    {
+      "feature": "prev_asia_high",
+      "importance": 0.029366718605160713
+    },
+    {
+      "feature": "prev_ny_low",
+      "importance": 0.029341209679841995
+    },
+    {
+      "feature": "volume",
+      "importance": 0.026469513773918152
+    },
+    {
+      "feature": "vol_log1p",
+      "importance": 0.02472405508160591
+    },
+    {
+      "feature": "atr_rel",
+      "importance": 0.02377144992351532
+    },
+    {
+      "feature": "kr_close",
+      "importance": 0.02357025071978569
+    },
+    {
+      "feature": "dow",
+      "importance": 0.02231820486485958
+    },
+    {
+      "feature": "dist_prev_london_high_atr",
+      "importance": 0.021706555038690567
+    },
+    {
+      "feature": "roll_atr_rel_med_48",
+      "importance": 0.02137141488492489
+    },
+    {
+      "feature": "dist_prev_london_low_atr",
+      "importance": 0.02094356156885624
+    },
+    {
+      "feature": "touch_prev_london_high",
+      "importance": 0.020692143589258194
+    },
+    {
+      "feature": "dist_prev_ny_low_atr",
+      "importance": 0.02019144594669342
+    },
+    {
+      "feature": "in_session_asia",
+      "importance": 0.019509978592395782
+    },
+    {
+      "feature": "dist_prev_asia_high_atr",
+      "importance": 0.018928205594420433
+    },
+    {
+      "feature": "dist_prev_asia_low_atr",
+      "importance": 0.01796169951558113
+    },
+    {
+      "feature": "touch_prev_ny_high",
+      "importance": 0.017178712412714958
+    },
+    {
+      "feature": "roll_ret_std_24",
+      "importance": 0.016956528648734093
+    },
+    {
+      "feature": "range_rel",
+      "importance": 0.0166982002556324
+    },
+    {
+      "feature": "dist_prev_ny_high_atr",
+      "importance": 0.016589635983109474
+    },
+    {
+      "feature": "touch_prev_london_low",
+      "importance": 0.01608920469880104
+    },
+    {
+      "feature": "kr_slope_3",
+      "importance": 0.015527227893471718
+    },
+    {
+      "feature": "touch_prev_asia_low",
+      "importance": 0.014587219804525375
+    },
+    {
+      "feature": "in_session_london_ny_overlap",
+      "importance": 0.014537026174366474
+    },
+    {
+      "feature": "roll_range_med_24",
+      "importance": 0.014425495639443398
+    },
+    {
+      "feature": "kr_slope_8",
+      "importance": 0.013963534496724606
+    },
+    {
+      "feature": "kr_resid",
+      "importance": 0.013468250632286072
+    },
+    {
+      "feature": "touch_prev_ny_low",
+      "importance": 0.012430856004357338
+    },
+    {
+      "feature": "touch_prev_asia_high",
+      "importance": 0.010740378871560097
+    },
+    {
+      "feature": "sweep_reclaim_prev_asia_high",
+      "importance": 0.009419114328920841
+    },
+    {
+      "feature": "cross_prev_asia_high",
+      "importance": 0.009329174645245075
+    },
+    {
+      "feature": "cross_prev_asia_low",
+      "importance": 0.008745672181248665
+    },
+    {
+      "feature": "ret6",
+      "importance": 0.007875585928559303
+    },
+    {
+      "feature": "sweep_reclaim_prev_asia_low",
+      "importance": 0.007447430863976479
+    },
+    {
+      "feature": "sweep_reclaim_prev_ny_high",
+      "importance": 0.007295456249266863
+    },
+    {
+      "feature": "sweep_reclaim_prev_london_high",
+      "importance": 0.006591584999114275
+    },
+    {
+      "feature": "cross_prev_ny_low",
+      "importance": 0.005853604059666395
+    },
+    {
+      "feature": "cross_prev_london_low",
+      "importance": 0.0057825506664812565
+    },
+    {
+      "feature": "ret3",
+      "importance": 0.005718054715543985
+    },
+    {
+      "feature": "kr_curve",
+      "importance": 0.005099317990243435
+    },
+    {
+      "feature": "footprint_raw",
+      "importance": 0.004995484370738268
+    },
+    {
+      "feature": "sweep_reclaim_prev_london_low",
+      "importance": 0.004775139968842268
+    },
+    {
+      "feature": "sweep_reclaim_prev_ny_low",
+      "importance": 0.0047748698852956295
+    },
+    {
+      "feature": "ret1",
+      "importance": 0.004653314594179392
+    },
+    {
+      "feature": "lower_wick_rel",
+      "importance": 0.004347106441855431
+    },
+    {
+      "feature": "body_rel",
+      "importance": 0.004330831579864025
+    },
+    {
+      "feature": "upper_wick_rel",
+      "importance": 0.003737028455361724
+    },
+    {
+      "feature": "cross_prev_london_high",
+      "importance": 0.0
+    },
+    {
+      "feature": "cross_prev_ny_high",
+      "importance": 0.0
+    }
+  ]
+}

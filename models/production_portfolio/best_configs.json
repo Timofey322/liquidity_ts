@@ -1,0 +1,18 @@
+{
+  "EURUSD": {
+    "config_name": "eurusd_prod_4h15m",
+    "stability_score": 0.0001853008590111284,
+    "test_total_return": 0.0014331402367113721,
+    "test_sharpe": 0.41943079938858935,
+    "test_max_drawdown": -0.0012752889254577526,
+    "best_prob_threshold": 0.6591846793244003
+  },
+  "GBPUSD": {
+    "config_name": "gbpusd_prod_4h15m",
+    "stability_score": 0.0,
+    "test_total_return": -0.0008484246875526402,
+    "test_sharpe": -0.2627019118538906,
+    "test_max_drawdown": -0.004206132731866268,
+    "best_prob_threshold": 0.6952873563109367
+  }
+}

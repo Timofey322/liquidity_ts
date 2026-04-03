@@ -1,0 +1,47 @@
+[
+  {
+    "symbol": "XAUUSD",
+    "n_trades": 530,
+    "n_symbols": 1,
+    "close_ts_utc": "2024-06-28 06:40:00+00:00",
+    "cash_balance": 2.601676295121994,
+    "market_value": 0.0,
+    "equity_estimate": 2.601676295121994,
+    "realized_pnl_total": 2.6016762951219903,
+    "unrealized_pnl_total": 0.0,
+    "reconciliation": {
+      "is_used": true,
+      "n_mismatch": 0
+    }
+  },
+  {
+    "symbol": "GBPUSD",
+    "n_trades": 1824,
+    "n_symbols": 1,
+    "close_ts_utc": "2024-06-30 23:55:00+00:00",
+    "cash_balance": 0.028977744822045404,
+    "market_value": 0.0,
+    "equity_estimate": 0.028977744822045404,
+    "realized_pnl_total": 0.0289777448220343,
+    "unrealized_pnl_total": 0.0,
+    "reconciliation": {
+      "is_used": true,
+      "n_mismatch": 0
+    }
+  },
+  {
+    "symbol": "EURUSD",
+    "n_trades": 1948,
+    "n_symbols": 1,
+    "close_ts_utc": "2024-06-30 23:55:00+00:00",
+    "cash_balance": -0.013641972767022503,
+    "market_value": 0.0,
+    "equity_estimate": -0.013641972767022503,
+    "realized_pnl_total": -0.013641972767018062,
+    "unrealized_pnl_total": 0.0,
+    "reconciliation": {
+      "is_used": true,
+      "n_mismatch": 0
+    }
+  }
+]

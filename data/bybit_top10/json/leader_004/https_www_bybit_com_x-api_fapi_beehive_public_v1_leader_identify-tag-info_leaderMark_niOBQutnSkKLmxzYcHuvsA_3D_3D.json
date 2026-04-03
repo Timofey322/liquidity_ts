@@ -1,0 +1,19 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "country": "",
+    "identifyVipLevel": 0,
+    "identifyMmLevel": 0,
+    "leaderLevel": "COPY_TRADE_LEADER_LEVEL_SILVER_TRADER",
+    "lastLeaderLevel": "COPY_TRADE_LEADER_LEVEL_GOLD_TRADER",
+    "leaderLevelChangeTimeE3": "1767415238084",
+    "identifyVipLevelV2": 0,
+    "leaderLevelEvaluateTimeE3": "1767415238084",
+    "thirdPartyApplicationInfo": [],
+    "gameInfo": [],
+    "identifyProLevel": 0
+  },
+  "retExtInfo": {},
+  "time": 1767560771981
+}

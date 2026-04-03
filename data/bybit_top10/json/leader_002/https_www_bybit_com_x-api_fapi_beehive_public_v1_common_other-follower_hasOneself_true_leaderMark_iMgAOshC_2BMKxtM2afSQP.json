@@ -1,0 +1,57 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "data": [
+      {
+        "nickName": "ros**@***",
+        "cumYieldE8": "278481660039",
+        "cumYieldRateE4": "187",
+        "cumFollowCostE8": "14823457291213",
+        "cumFollowDays": "55",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "rub**@***",
+        "cumYieldE8": "38502221155",
+        "cumYieldRateE4": "364",
+        "cumFollowCostE8": "1056980811418",
+        "cumFollowDays": "25",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "mak**@***",
+        "cumYieldE8": "24572386160",
+        "cumYieldRateE4": "631",
+        "cumFollowCostE8": "389340670629",
+        "cumFollowDays": "26",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "KlavaKoka",
+        "cumYieldE8": "23449211382",
+        "cumYieldRateE4": "104",
+        "cumFollowCostE8": "2233320758726",
+        "cumFollowDays": "35",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "abd**@***",
+        "cumYieldE8": "23280423647",
+        "cumYieldRateE4": "923",
+        "cumFollowCostE8": "252026440627",
+        "cumFollowDays": "22",
+        "coin": "UNKNOWN"
+      }
+    ],
+    "currentPage": "1",
+    "totalCount": "0",
+    "cursor": "4K3ZghL5eD",
+    "isFirstPage": true,
+    "hasPrev": false,
+    "hasNext": true,
+    "isLastPage": false
+  },
+  "retExtInfo": {},
+  "time": 1767560747441
+}

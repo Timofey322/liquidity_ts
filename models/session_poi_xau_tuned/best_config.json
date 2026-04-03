@@ -1,0 +1,28 @@
+{
+  "pair": "XAUUSD",
+  "bars_path": "models/compare_halfyear/cache/xauusd_bars_5m.csv",
+  "out_dir": "models/session_poi_xau_tuned/best_run",
+  "fee_bps": 2.0,
+  "poi_window_bars": 30,
+  "body_threshold": 0.9,
+  "stop_buffer_atr": 0.2,
+  "target_rr": 2.0,
+  "max_hold_bars": 72,
+  "session_fractal_left": 1,
+  "session_fractal_right": 2,
+  "ltf_fractal_left": 1,
+  "ltf_fractal_right": 1,
+  "allowed_sessions": [
+    "asia",
+    "london",
+    "newyork"
+  ],
+  "use_fractal_sweep_poi": true,
+  "use_fvg_poi": true,
+  "use_bos_entry": true,
+  "use_choch_entry": false,
+  "use_inversion_entry": false,
+  "require_trend_filter": true,
+  "trend_lookback_bars": 24,
+  "ema_span": 89
+}

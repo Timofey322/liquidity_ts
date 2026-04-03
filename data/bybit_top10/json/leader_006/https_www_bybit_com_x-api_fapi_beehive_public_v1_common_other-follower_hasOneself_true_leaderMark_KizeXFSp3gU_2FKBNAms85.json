@@ -1,0 +1,57 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "data": [
+      {
+        "nickName": "e31**@***",
+        "cumYieldE8": "1171307503133",
+        "cumYieldRateE4": "19128",
+        "cumFollowCostE8": "612345700448",
+        "cumFollowDays": "5",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "lat**@***",
+        "cumYieldE8": "233417018558",
+        "cumYieldRateE4": "11855",
+        "cumFollowCostE8": "196889061976",
+        "cumFollowDays": "4",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "joo**@***",
+        "cumYieldE8": "136576973265",
+        "cumYieldRateE4": "22698",
+        "cumFollowCostE8": "60170242932",
+        "cumFollowDays": "4",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "Marveh121",
+        "cumYieldE8": "115981911400",
+        "cumYieldRateE4": "11443",
+        "cumFollowCostE8": "101351605252",
+        "cumFollowDays": "3",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "ale**@***",
+        "cumYieldE8": "75266377375",
+        "cumYieldRateE4": "7403",
+        "cumFollowCostE8": "101667574039",
+        "cumFollowDays": "4",
+        "coin": "UNKNOWN"
+      }
+    ],
+    "currentPage": "1",
+    "totalCount": "0",
+    "cursor": "4KrpdfLzPY",
+    "isFirstPage": true,
+    "hasPrev": false,
+    "hasNext": true,
+    "isLastPage": false
+  },
+  "retExtInfo": {},
+  "time": 1767560796310
+}

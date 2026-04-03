@@ -1,0 +1,37 @@
+{
+  "pair": "EURUSD",
+  "config": {
+    "pair": "EURUSD",
+    "bars_path": "models/compare_halfyear/cache/eurusd_bars_5m.csv",
+    "out_dir": "models/session_poi/eurusd",
+    "fee_bps": 1.0,
+    "poi_window_bars": 24,
+    "body_threshold": 0.6,
+    "stop_buffer_atr": 0.15,
+    "target_rr": 2.0,
+    "max_hold_bars": 72,
+    "session_fractal_left": 1,
+    "session_fractal_right": 1,
+    "ltf_fractal_left": 1,
+    "ltf_fractal_right": 1,
+    "allowed_sessions": [
+      "asia",
+      "london",
+      "newyork"
+    ],
+    "use_fractal_sweep_poi": true,
+    "use_fvg_poi": true,
+    "use_bos_entry": true,
+    "use_choch_entry": true,
+    "use_inversion_entry": true,
+    "require_trend_filter": true,
+    "trend_lookback_bars": 12
+  },
+  "n_trades": 974,
+  "total_return": -0.10435703753597336,
+  "sharpe": -3.848749695189269,
+  "max_drawdown": -0.1115909217976448,
+  "win_rate": 0.3593429158110883,
+  "avg_trade": -0.00011273180738970456,
+  "avg_r_multiple": -0.25775572204603764
+}

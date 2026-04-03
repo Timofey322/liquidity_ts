@@ -1,0 +1,33 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "data": [
+      {
+        "symbol": "SOLUSDT",
+        "entryPrice": "133.79714286",
+        "sizeX": "840000000",
+        "createdAtE3": "1725901814021",
+        "side": "Sell",
+        "leverageE2": "1000",
+        "isIsolated": true,
+        "transactTimeE3": "0",
+        "stopLossPrice": "",
+        "takeProfitPrice": "",
+        "takeProfitOrderId": "",
+        "stopLossOrderId": "",
+        "orderCostE8": "0",
+        "reCalcEntryPrice": "0",
+        "positionEntryPrice": "133.79714286",
+        "positionCycleVersion": "30",
+        "crossSeq": "244979104690",
+        "closeFreeQtyX": "0",
+        "minPositionCostE8": "11306955708",
+        "positionBalanceE8": "11306955708"
+      }
+    ],
+    "openTradeInfoProtection": 0
+  },
+  "retExtInfo": {},
+  "time": 1767560830626
+}

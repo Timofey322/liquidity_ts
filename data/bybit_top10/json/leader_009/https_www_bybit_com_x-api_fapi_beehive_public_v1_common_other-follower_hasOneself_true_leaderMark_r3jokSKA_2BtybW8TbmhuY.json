@@ -1,0 +1,57 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "data": [
+      {
+        "nickName": "Bogatyr",
+        "cumYieldE8": "122092592569",
+        "cumYieldRateE4": "3617",
+        "cumFollowCostE8": "337509956166",
+        "cumFollowDays": "19",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "ecp**@***",
+        "cumYieldE8": "71317242686",
+        "cumYieldRateE4": "3672",
+        "cumFollowCostE8": "194206815138",
+        "cumFollowDays": "38",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "dav**@***",
+        "cumYieldE8": "62704070640",
+        "cumYieldRateE4": "4341",
+        "cumFollowCostE8": "144416228609",
+        "cumFollowDays": "18",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "ter**@***",
+        "cumYieldE8": "58278518662",
+        "cumYieldRateE4": "3692",
+        "cumFollowCostE8": "157812025132",
+        "cumFollowDays": "18",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "vas**@***",
+        "cumYieldE8": "51585293979",
+        "cumYieldRateE4": "4104",
+        "cumFollowCostE8": "125689541867",
+        "cumFollowDays": "28",
+        "coin": "UNKNOWN"
+      }
+    ],
+    "currentPage": "1",
+    "totalCount": "0",
+    "cursor": "eW4ZOUz4eN",
+    "isFirstPage": true,
+    "hasPrev": false,
+    "hasNext": true,
+    "isLastPage": false
+  },
+  "retExtInfo": {},
+  "time": 1767560830368
+}

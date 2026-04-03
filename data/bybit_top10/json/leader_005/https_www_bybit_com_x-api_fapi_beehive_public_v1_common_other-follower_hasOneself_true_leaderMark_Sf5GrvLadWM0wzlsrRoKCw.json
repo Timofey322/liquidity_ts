@@ -1,0 +1,57 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "data": [
+      {
+        "nickName": "pal**@***",
+        "cumYieldE8": "687204503234",
+        "cumYieldRateE4": "8029",
+        "cumFollowCostE8": "855841805841",
+        "cumFollowDays": "9",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "CryptoKOT",
+        "cumYieldE8": "358266241372",
+        "cumYieldRateE4": "7249",
+        "cumFollowCostE8": "494197407013",
+        "cumFollowDays": "73",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "AlmostBlindGambler",
+        "cumYieldE8": "129781599321",
+        "cumYieldRateE4": "3964",
+        "cumFollowCostE8": "327365828226",
+        "cumFollowDays": "121",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "ams**@***",
+        "cumYieldE8": "128420852185",
+        "cumYieldRateE4": "5054",
+        "cumFollowCostE8": "254069118314",
+        "cumFollowDays": "74",
+        "coin": "UNKNOWN"
+      },
+      {
+        "nickName": "vox**@***",
+        "cumYieldE8": "120440104944",
+        "cumYieldRateE4": "4045",
+        "cumFollowCostE8": "297709327742",
+        "cumFollowDays": "5",
+        "coin": "UNKNOWN"
+      }
+    ],
+    "currentPage": "1",
+    "totalCount": "0",
+    "cursor": "XlX4BuZpAz",
+    "isFirstPage": true,
+    "hasPrev": false,
+    "hasNext": true,
+    "isLastPage": false
+  },
+  "retExtInfo": {},
+  "time": 1767560785120
+}

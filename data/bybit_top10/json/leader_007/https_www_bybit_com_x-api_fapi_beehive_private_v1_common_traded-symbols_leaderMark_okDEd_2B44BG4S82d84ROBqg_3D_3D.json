@@ -1,0 +1,14 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "symbols": [
+      "XRPUSDT",
+      "WIFUSDT",
+      "ARBUSDT",
+      "LINKUSDT"
+    ]
+  },
+  "retExtInfo": {},
+  "time": 1767560807849
+}

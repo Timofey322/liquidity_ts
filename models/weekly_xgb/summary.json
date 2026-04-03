@@ -1,0 +1,29 @@
+[
+  {
+    "pair":"XAUUSD",
+    "n_trades":61,
+    "total_return":0.0291845678,
+    "max_drawdown":-0.0161185618,
+    "win_rate":0.4918032787,
+    "avg_trade":0.0004775953,
+    "sharpe":1.0755561871
+  },
+  {
+    "pair":"EURUSD",
+    "n_trades":70,
+    "total_return":0.006737848,
+    "max_drawdown":-0.0126455394,
+    "win_rate":0.4285714286,
+    "avg_trade":0.0000967127,
+    "sharpe":0.6445665812
+  },
+  {
+    "pair":"GBPUSD",
+    "n_trades":63,
+    "total_return":-0.0022096862,
+    "max_drawdown":-0.0090008632,
+    "win_rate":0.3492063492,
+    "avg_trade":-0.0000342484,
+    "sharpe":-0.2050496108
+  }
+]

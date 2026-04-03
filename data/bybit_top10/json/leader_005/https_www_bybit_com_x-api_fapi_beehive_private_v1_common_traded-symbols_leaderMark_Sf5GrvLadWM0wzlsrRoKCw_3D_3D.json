@@ -1,0 +1,31 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "symbols": [
+      "XRPUSDT",
+      "BTCUSDT",
+      "WIFUSDT",
+      "ARBUSDT",
+      "OPUSDT",
+      "AVAXUSDT",
+      "APTUSDT",
+      "ATOMUSDT",
+      "PUMPFUNUSDT",
+      "FILUSDT",
+      "NEARUSDT",
+      "SUIUSDT",
+      "INJUSDT",
+      "SOLUSDT",
+      "JUPUSDT",
+      "SANDUSDT",
+      "OLUSDT",
+      "FARTCOINUSDT",
+      "ALTUSDT",
+      "LINKUSDT",
+      "LDOUSDT"
+    ]
+  },
+  "retExtInfo": {},
+  "time": 1767560785825
+}

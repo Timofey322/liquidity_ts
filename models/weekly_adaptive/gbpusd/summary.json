@@ -1,0 +1,25 @@
+{
+  "pair": "GBPUSD",
+  "config": {
+    "pair": "GBPUSD",
+    "bars_path": "models/compare_halfyear/cache/gbpusd_bars_5m.csv",
+    "out_dir": "models/weekly_adaptive/gbpusd",
+    "fee_bps": 1.0,
+    "train_weeks": 2,
+    "move_horizon_bars": 36,
+    "pre_lookback_bars": 12,
+    "top_events": 30,
+    "max_signals_per_week": 8,
+    "min_event_move": 0.0015,
+    "min_sl_atr": 0.6,
+    "max_sl_atr": 3.0,
+    "min_tp_atr": 0.8,
+    "max_tp_atr": 6.0
+  },
+  "n_trades": 27,
+  "total_return": 0.0011871267641536676,
+  "max_drawdown": -0.001848267817955192,
+  "win_rate": 0.25925925925925924,
+  "avg_trade": 4.4274171815316874e-05,
+  "sharpe": 0.27709925634657023
+}

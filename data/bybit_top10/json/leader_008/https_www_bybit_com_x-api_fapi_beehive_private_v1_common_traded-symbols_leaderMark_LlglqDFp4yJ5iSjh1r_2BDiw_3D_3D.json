@@ -1,0 +1,26 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "symbols": [
+      "ASTERUSDT",
+      "PUMPFUNUSDT",
+      "JELLYJELLYUSDT",
+      "HYPEUSDT",
+      "JASMYUSDT",
+      "DOGEUSDT",
+      "1000BONKUSDT",
+      "ONDOUSDT",
+      "1000PEPEUSDT",
+      "SHIB1000USDT",
+      "XRPUSDT",
+      "ALGOUSDT",
+      "XLMUSDT",
+      "ICPUSDT",
+      "KASUSDT",
+      "INJUSDT"
+    ]
+  },
+  "retExtInfo": {},
+  "time": 1767560819444
+}

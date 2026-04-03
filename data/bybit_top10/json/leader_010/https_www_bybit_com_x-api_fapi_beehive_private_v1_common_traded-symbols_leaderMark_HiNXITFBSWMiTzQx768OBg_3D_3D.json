@@ -1,0 +1,19 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "symbols": [
+      "ATOMUSDT",
+      "NILUSDT",
+      "FARTCOINUSDT",
+      "1000LUNCUSDT",
+      "BEATUSDT",
+      "STBLUSDT",
+      "ZECUSDT",
+      "OLUSDT",
+      "HYPEUSDT"
+    ]
+  },
+  "retExtInfo": {},
+  "time": 1767560842582
+}

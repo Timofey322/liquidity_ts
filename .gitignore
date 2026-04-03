@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*.pyd
+build/
+dist/
+*.egg-info/
+.eggs/
+.pytest_cache/
+.cursor/
+
+# Локальные выгрузки / скрейпы / кэши (примеры в data/examples/ остаются в репо)
+data/bybit_collect_top10/
+data/bybit_collect_top10_overnight/
+data/bybit_scrape/
+data/hyperliquid_scrape*/
+data/market_downloads/
+data/*_duka*.csv
+data/*_ml*.csv
+data/*_equity*.csv
+data/*_mtf*.csv
+
+src/fast/_fractals.c
+src/fast/_imbalance.c
+src/fast/_footprint.c

@@ -1,0 +1,329 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "metricList": [
+      {
+        "line": "cumResetRoi",
+        "showType": "percent",
+        "isCurve": true,
+        "metricLineValue": [
+          {
+            "statisticDate": "1766880000000",
+            "value": "-180"
+          },
+          {
+            "statisticDate": "1766966400000",
+            "value": "587"
+          },
+          {
+            "statisticDate": "1767052800000",
+            "value": "730"
+          },
+          {
+            "statisticDate": "1767139200000",
+            "value": "776"
+          },
+          {
+            "statisticDate": "1767225600000",
+            "value": "854"
+          },
+          {
+            "statisticDate": "1767312000000",
+            "value": "854"
+          },
+          {
+            "statisticDate": "1767398400000",
+            "value": "1030"
+          }
+        ]
+      },
+      {
+        "line": "cumResetPnl",
+        "showType": "num",
+        "isCurve": true,
+        "metricLineValue": [
+          {
+            "statisticDate": "1766880000000",
+            "value": "-1837416542"
+          },
+          {
+            "statisticDate": "1766966400000",
+            "value": "5980406983"
+          },
+          {
+            "statisticDate": "1767052800000",
+            "value": "7439057438"
+          },
+          {
+            "statisticDate": "1767139200000",
+            "value": "7911694590"
+          },
+          {
+            "statisticDate": "1767225600000",
+            "value": "8705036559"
+          },
+          {
+            "statisticDate": "1767312000000",
+            "value": "8705036559"
+          },
+          {
+            "statisticDate": "1767398400000",
+            "value": "10497844103"
+          }
+        ]
+      },
+      {
+        "line": "yieldRate",
+        "showType": "percent",
+        "isCurve": false,
+        "metricLineValue": [
+          {
+            "statisticDate": "1766880000000",
+            "value": "-180"
+          },
+          {
+            "statisticDate": "1766966400000",
+            "value": "781"
+          },
+          {
+            "statisticDate": "1767052800000",
+            "value": "135"
+          },
+          {
+            "statisticDate": "1767139200000",
+            "value": "43"
+          },
+          {
+            "statisticDate": "1767225600000",
+            "value": "72"
+          },
+          {
+            "statisticDate": "1767312000000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767398400000",
+            "value": "162"
+          }
+        ]
+      }
+    ],
+    "metricListBot": [
+      {
+        "line": "cumResetRoi",
+        "showType": "percent",
+        "isCurve": true,
+        "metricLineValue": [
+          {
+            "statisticDate": "1766880000000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1766966400000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767052800000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767139200000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767225600000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767312000000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767398400000",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "line": "cumResetPnl",
+        "showType": "num",
+        "isCurve": true,
+        "metricLineValue": [
+          {
+            "statisticDate": "1766880000000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1766966400000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767052800000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767139200000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767225600000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767312000000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767398400000",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "line": "yieldRate",
+        "showType": "percent",
+        "isCurve": false,
+        "metricLineValue": [
+          {
+            "statisticDate": "1766880000000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1766966400000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767052800000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767139200000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767225600000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767312000000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767398400000",
+            "value": "0"
+          }
+        ]
+      }
+    ],
+    "metricListAll": [
+      {
+        "line": "cumResetRoi",
+        "showType": "percent",
+        "isCurve": true,
+        "metricLineValue": [
+          {
+            "statisticDate": "1766880000000",
+            "value": "-180"
+          },
+          {
+            "statisticDate": "1766966400000",
+            "value": "587"
+          },
+          {
+            "statisticDate": "1767052800000",
+            "value": "730"
+          },
+          {
+            "statisticDate": "1767139200000",
+            "value": "776"
+          },
+          {
+            "statisticDate": "1767225600000",
+            "value": "854"
+          },
+          {
+            "statisticDate": "1767312000000",
+            "value": "854"
+          },
+          {
+            "statisticDate": "1767398400000",
+            "value": "1030"
+          }
+        ]
+      },
+      {
+        "line": "cumResetPnl",
+        "showType": "num",
+        "isCurve": true,
+        "metricLineValue": [
+          {
+            "statisticDate": "1766880000000",
+            "value": "-1837416542"
+          },
+          {
+            "statisticDate": "1766966400000",
+            "value": "5980406983"
+          },
+          {
+            "statisticDate": "1767052800000",
+            "value": "7439057438"
+          },
+          {
+            "statisticDate": "1767139200000",
+            "value": "7911694590"
+          },
+          {
+            "statisticDate": "1767225600000",
+            "value": "8705036559"
+          },
+          {
+            "statisticDate": "1767312000000",
+            "value": "8705036559"
+          },
+          {
+            "statisticDate": "1767398400000",
+            "value": "10497844103"
+          }
+        ]
+      },
+      {
+        "line": "yieldRate",
+        "showType": "percent",
+        "isCurve": false,
+        "metricLineValue": [
+          {
+            "statisticDate": "1766880000000",
+            "value": "-180"
+          },
+          {
+            "statisticDate": "1766966400000",
+            "value": "781"
+          },
+          {
+            "statisticDate": "1767052800000",
+            "value": "135"
+          },
+          {
+            "statisticDate": "1767139200000",
+            "value": "43"
+          },
+          {
+            "statisticDate": "1767225600000",
+            "value": "72"
+          },
+          {
+            "statisticDate": "1767312000000",
+            "value": "0"
+          },
+          {
+            "statisticDate": "1767398400000",
+            "value": "162"
+          }
+        ]
+      }
+    ]
+  },
+  "retExtInfo": {},
+  "time": 1767560842528
+}

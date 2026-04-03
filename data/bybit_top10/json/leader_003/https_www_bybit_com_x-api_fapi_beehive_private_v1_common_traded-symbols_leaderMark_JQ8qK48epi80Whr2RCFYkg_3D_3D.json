@@ -1,0 +1,28 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "symbols": [
+      "ARUSDT",
+      "OBOLUSDT",
+      "XVSUSDT",
+      "HEMIUSDT",
+      "1000000CHEEMSUSDT",
+      "TWTUSDT",
+      "PTBUSDT",
+      "LIGHTUSDT",
+      "FOLKSUSDT",
+      "XPINUSDT",
+      "RIVERUSDT",
+      "RAVEUSDT",
+      "SQDUSDT",
+      "ZBTUSDT",
+      "TRUUSDT",
+      "STORJUSDT",
+      "MYXUSDT",
+      "1000BONKUSDT"
+    ]
+  },
+  "retExtInfo": {},
+  "time": 1767560761133
+}

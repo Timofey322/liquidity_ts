@@ -1,0 +1,37 @@
+{
+  "pair": "XAUUSD",
+  "config": {
+    "pair": "XAUUSD",
+    "bars_path": "models/compare_halfyear/cache/xauusd_bars_5m.csv",
+    "out_dir": "models/session_poi/xauusd",
+    "fee_bps": 2.0,
+    "poi_window_bars": 24,
+    "body_threshold": 0.6,
+    "stop_buffer_atr": 0.15,
+    "target_rr": 2.0,
+    "max_hold_bars": 72,
+    "session_fractal_left": 1,
+    "session_fractal_right": 1,
+    "ltf_fractal_left": 1,
+    "ltf_fractal_right": 1,
+    "allowed_sessions": [
+      "asia",
+      "london",
+      "newyork"
+    ],
+    "use_fractal_sweep_poi": true,
+    "use_fvg_poi": true,
+    "use_bos_entry": true,
+    "use_choch_entry": true,
+    "use_inversion_entry": true,
+    "require_trend_filter": true,
+    "trend_lookback_bars": 12
+  },
+  "n_trades": 878,
+  "total_return": -0.08823478297308485,
+  "sharpe": -1.1292499673952259,
+  "max_drawdown": -0.09919186149598515,
+  "win_rate": 0.3826879271070615,
+  "avg_trade": -0.0001016549146376698,
+  "avg_r_multiple": -0.09213323234315837
+}

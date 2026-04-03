@@ -1,0 +1,98 @@
+{
+  "retCode": 0,
+  "retMsg": "success",
+  "result": {
+    "leaderUserName": "Order Block Hunter",
+    "leaderUserId": "283076540",
+    "leaderUserAvatar": "https://s1.bycsi.com/fop/copytrade/b1202492-5555-4257-858a-75ace32f144f.JPG",
+    "leaderUserIntroduction": "Pro Derivatives Trader - BTC MAXI - Technical Analysis. NFA!! SAFFA Dad of 3 boys!!\n- Certified cryptowarzoneHQ Power Trader ",
+    "last7DaysWinRateE4": "9265",
+    "last3WeeksWinRateE4": "8447",
+    "last7DaysYieldE8": "54590534504",
+    "last7DaysFollowerYieldE8": "1670348119353",
+    "cumHistoryTransactionsCount": "491",
+    "cumFollowerCount": "1038",
+    "locateDays": "483",
+    "currentFollowerCount": "238",
+    "maxFollowerCount": "1000",
+    "profitCount": "338",
+    "lossCount": "210",
+    "walletBalanceE8": "0",
+    "availableWalletBalanceE8": "0",
+    "leaderStatus": "COPY_TRADE_LEADER_STATUS_LEADER",
+    "leaderMark": "r3jokSKA+tybW8TbmhuYzA==",
+    "last7DaysYieldRateRank": 604,
+    "tradeDays": 349,
+    "shareProfitRateE8": "10000000",
+    "last7DaysYieldRateE4": "2783",
+    "freeSlot": 762,
+    "linkStatus": -1,
+    "canCreateLink": 0,
+    "openTradeInfoProtection": false,
+    "openFollowerWhiteList": false,
+    "followerWhiteListStatus": "",
+    "opStatus": 0,
+    "aumE8": "6689181000000",
+    "stableScoreLevelE1": "40",
+    "stableScoreLevelFormat": "4.0/5.0",
+    "isShowLinkExpiredTips": false,
+    "wsotRanking": "0",
+    "userTag": [
+      {
+        "title": "High Frequency",
+        "hovelDesc": "Traders who have traded more frequently than other Master Traders in the last 30 days.",
+        "hovelTargetUserTag": [],
+        "id": "47070529",
+        "tagType": "USER_TAG_TYPE_NEUTRAL",
+        "tagId": "9",
+        "titleLangKey": "traderTagHighFrequency",
+        "hovelDescLangKey": "traderTagHighFrequencyDesc"
+      },
+      {
+        "title": "Trend Trader",
+        "hovelDesc": "Traders who profit from long-term market movements.",
+        "hovelTargetUserTag": [],
+        "id": "35466458",
+        "tagType": "USER_TAG_TYPE_NEUTRAL",
+        "tagId": "14",
+        "titleLangKey": "traderTagTrendTrader",
+        "hovelDescLangKey": "traderTagTrendTraderDesc"
+      },
+      {
+        "title": "Veteran",
+        "hovelDesc": "Traders who have actively been trading on Bybit Copy Trading for a long time.",
+        "hovelTargetUserTag": [],
+        "id": "32546698",
+        "tagType": "USER_TAG_TYPE_NEUTRAL",
+        "tagId": "15",
+        "titleLangKey": "traderTagVeteran",
+        "hovelDescLangKey": "traderTagVeteranDesc"
+      },
+      {
+        "title": "Social Connector",
+        "hovelDesc": "",
+        "hovelTargetUserTag": [
+          {
+            "icon": "",
+            "link": "",
+            "name": "tradingView"
+          },
+          {
+            "icon": "",
+            "link": "",
+            "name": "twitter"
+          }
+        ],
+        "id": "20377819",
+        "tagType": "USER_TAG_TYPE_NEUTRAL",
+        "tagId": "3",
+        "titleLangKey": "traderTagSocialConnector",
+        "hovelDescLangKey": ""
+      }
+    ],
+    "sevenDayProfileVisitorsCount": "1558",
+    "isBotLeader": false
+  },
+  "retExtInfo": {},
+  "time": 1767560830467
+}
